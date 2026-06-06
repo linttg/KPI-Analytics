@@ -1,0 +1,15 @@
+streamlit
+fastapi
+uvicorn
+pandas
+numpy
+matplotlib
+seaborn
+tensorflow
+scikit-learn
+sqlalchemy
+cryptography
+python-dotenv
+xgboost
+statsmodels
+seaborn
